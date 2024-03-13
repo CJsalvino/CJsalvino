@@ -23,9 +23,9 @@ I'm a recent graduate of a web development bootcamp with a passion for creating 
 
 Here are a few projects I've worked on:
 
-1. **Salt & Wine (https://github.com/CJsalvino/MP1):** A Restaurant website template utilizing HTML, CSS, and Bootstrap 5 grid system for responsiveness on all screen sizes.
+1. **Salt & Wine (https://github.com/CJsalvino/MP1): (https://cjsalvino.github.io/MP1/)** A Restaurant website template utilizing HTML, CSS, and Bootstrap 5 grid system for responsiveness on all screen sizes.
 
-2. **Vitality Book (https://github.com/samzoesantos/MP2):** An online medical appointment website utilizing Resful APIs I developed using Express.js.
+2. **Vitality Book (https://github.com/samzoesantos/MP2): (https://samzoesantos.github.io/MP2/index.html)** An online medical appointment website utilizing Resful APIs I developed using Express.js.
 
 Feel free to explore more of my projects on [GitHub](https://github.com/CJsalvino).
 
